@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/coder-armed8235/DSA-Questions/tree/master/0015-3sum) |
 | [0300-longest-increasing-subsequence](https://github.com/coder-armed8235/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/coder-armed8235/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/coder-armed8235/DSA-Questions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/coder-armed8235/DSA-Questions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
