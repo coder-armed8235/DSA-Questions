@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/coder-armed8235/DSA-Questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/coder-armed8235/DSA-Questions/tree/master/0015-3sum) |
 | [0300-longest-increasing-subsequence](https://github.com/coder-armed8235/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/coder-armed8235/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/coder-armed8235/DSA-Questions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
