@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/coder-armed8235/DSA-Questions/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/coder-armed8235/DSA-Questions/tree/master/0066-plus-one) |
 | [0300-longest-increasing-subsequence](https://github.com/coder-armed8235/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0997-find-the-town-judge](https://github.com/coder-armed8235/DSA-Questions/tree/master/0997-find-the-town-judge) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +75,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/coder-armed8235/DSA-Questions/tree/master/0001-two-sum) |
+| [0997-find-the-town-judge](https://github.com/coder-armed8235/DSA-Questions/tree/master/0997-find-the-town-judge) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/coder-armed8235/DSA-Questions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
