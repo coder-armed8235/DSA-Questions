@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/coder-armed8235/DSA-Questions/tree/master/0066-plus-one) |
 | [0300-longest-increasing-subsequence](https://github.com/coder-armed8235/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/coder-armed8235/DSA-Questions/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/coder-armed8235/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [0997-find-the-town-judge](https://github.com/coder-armed8235/DSA-Questions/tree/master/0997-find-the-town-judge) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/coder-armed8235/DSA-Questions/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/coder-armed8235/DSA-Questions/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/coder-armed8235/DSA-Questions/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/coder-armed8235/DSA-Questions/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -96,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/coder-armed8235/DSA-Questions/tree/master/0455-assign-cookies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/coder-armed8235/DSA-Questions/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/coder-armed8235/DSA-Questions/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/coder-armed8235/DSA-Questions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
