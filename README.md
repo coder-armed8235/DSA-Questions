@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/coder-armed8235/DSA-Questions/tree/master/0066-plus-one) |
 | [0300-longest-increasing-subsequence](https://github.com/coder-armed8235/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/coder-armed8235/DSA-Questions/tree/master/0455-assign-cookies) |
+| [0746-min-cost-climbing-stairs](https://github.com/coder-armed8235/DSA-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/coder-armed8235/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [0997-find-the-town-judge](https://github.com/coder-armed8235/DSA-Questions/tree/master/0997-find-the-town-judge) |
 ## Binary Search
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/coder-armed8235/DSA-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/coder-armed8235/DSA-Questions/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
