@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/coder-armed8235/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/coder-armed8235/DSA-Questions/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/coder-armed8235/DSA-Questions/tree/master/0148-sort-list) |
+| [0344-reverse-string](https://github.com/coder-armed8235/DSA-Questions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/coder-armed8235/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/coder-armed8235/DSA-Questions/tree/master/0832-flipping-an-image) |
 ## Sorting
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/coder-armed8235/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/coder-armed8235/DSA-Questions/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
 | ------- |
